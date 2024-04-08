@@ -1,0 +1,6 @@
+peter,0764535277,Bambalapitiya
+Jhon,0768848482,Moratuwa
+Max,078345678,Dehiwala
+Mathews,0778890980,London
+Chris,0779088897,Barcelona
+Jason,0766777124,Matara

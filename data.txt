@@ -1,0 +1,2 @@
+[{'code': 300, 'name': 'Land phone', 'brand': 'Samsung', 'price': 12000.0, 'quantity': 5, 'category': 'Mobile and broadband', 'purchased_date': '2022/05/31'},
+ {'code': 400, 'name': 'Head Set', 'brand': 'Sony', 'price': 10000.0, 'quantity': 2, 'category': 'Gaming Headset', 'purchased_date': '2020/10/30'}]
